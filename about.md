@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+I am a Grad student at UTA! My major is Computer Science. I am in my final semester.
 
 ### More Information
 
